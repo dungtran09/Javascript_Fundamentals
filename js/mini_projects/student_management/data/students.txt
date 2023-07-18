@@ -1,0 +1,16 @@
+
+      {
+        name: DUNG HOANG
+        birthDate: 2003
+        major: SE
+        scores: 90,90,95
+        gpa: 91.67
+      } 
+
+      {
+        name: THAI ANH
+        birthDate: 2003
+        major: SE
+        scores: 80,50,85
+        gpa: 71.67
+      } 

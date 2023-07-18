@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "closure_and_scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "closure_and_scpoe_exercises_01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

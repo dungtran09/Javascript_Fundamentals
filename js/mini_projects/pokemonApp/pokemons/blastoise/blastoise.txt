@@ -1,0 +1,7 @@
+name: blastoise 
+defense: 100 
+special-attack: 85 
+hp: 79 
+speed: 78 
+special-defense: 105 
+attack: 83 

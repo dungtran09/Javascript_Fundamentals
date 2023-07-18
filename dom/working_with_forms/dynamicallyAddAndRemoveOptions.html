@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/select-options.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="container">
+      <form>
+        <label for="framework">Framework: </label>
+        <input type="text" id="framework" placeholder="Enter a framework" />
+        <button id="btnAdd">Add</button>
+
+        <label for="framework">Framework List: </label>
+        <select name="list" id="list" multiple></select>
+        <button id="btnRemove">Remove Selected Framework</button>
+      </form>
+    </div>
+    <script src="script/dynamicallyAddAndRemoveOptions.js"></script>
+  </body>
+</html>
